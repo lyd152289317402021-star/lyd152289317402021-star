@@ -66,11 +66,3 @@ A team blockchain project demonstrating NFT-based membership and on-chain govern
 | AI workflows | Ollama, OCR, Obsidian |
 | Blockchain | Solidity, Hardhat, OpenZeppelin, MetaMask |
 
----
-
-<div align="center">
-
-金融科技 · AI 应用 · 数据分析  
-从实际问题出发，把数据、研究和工具连接起来。
-
-</div>
