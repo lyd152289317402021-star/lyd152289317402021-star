@@ -8,7 +8,7 @@ AI Applications · Quantitative Research · Data Analytics
 
 Building practical tools to turn information into research, decisions, and useful software.
 
-[Research Reading Agent](https://github.com/lyd152289317402021-star/reading-agent) · [FX Strategy](https://github.com/lyd152289317402021-star/FT5010) · [Dashboard](https://github.com/lyd152289317402021-star/FT5010-Dashboard)
+[Research Reading Agent](https://github.com/lyd152289317402021-star/reading-agent) · [FX Strategy](https://github.com/lyd152289317402021-star/FT5010) · [InnovateDAO](https://github.com/ShengShuYan/InnovateDAO)
 
 </div>
 
@@ -42,11 +42,19 @@ A course project combining trend, reversal, and volatility signals across seven 
 
 [View the dashboard repository →](https://github.com/lyd152289317402021-star/FT5010-Dashboard)
 
+### [InnovateDAO](https://github.com/ShengShuYan/InnovateDAO)
+**Solidity · Hardhat · OpenZeppelin · MetaMask**
+
+A team blockchain project demonstrating NFT-based membership and on-chain governance, from wallet connection and vote delegation to proposal execution and refunds.
+
+- Supports a local end-to-end flow: mint membership NFT, delegate votes, submit a proposal, vote, and execute or claim a refund.
+- My focus: testing, validation, and documentation of the governance workflow.
+- The linked repository is the original team repository maintained by ShengShuYan.
+
 ## Additional project experience
 
 | Project | Focus |
 | :--- | :--- |
-| **Forum Builder Fund DAO / InnovateDAO** | Proposal and voting workflows for a forum development fund; integration and testing with Solidity, Hardhat, and OpenZeppelin. |
 | **Excel / VBA Robo-Adviser** | Risk-preference questionnaires, portfolio optimization, and comparison of minimum-variance and utility-maximizing allocations. |
 
 ## Tools I work with
